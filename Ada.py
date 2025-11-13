@@ -2,6 +2,7 @@
 #Variabler
 def pause():
     input("\nTrykk Enter for å fortsette...")
+
 #Bagrunnshistorie
 print("Velkommen til Kontoret!" \
 "\nDu er en i denne historien projektlederen Erling." \
